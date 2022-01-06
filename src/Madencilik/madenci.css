@@ -1,0 +1,29 @@
+button.madenci{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-image: url("gold.png");
+    background-size: cover;
+    border: 2px solid rgb(184, 134, 11);
+    border-radius: 5px;
+    background-color: rgb(233, 210, 151);
+    cursor: pointer;
+    position: relative;
+}
+
+button.madenci > span {
+    display: block;
+    padding: 3px 6px;
+    border-radius: 3px;
+    position:absolute;
+    bottom: 3px;
+    right: 3px;
+    background-color: rgba(128, 0, 128, 0.507);
+    color: white;
+    font-size: 2em;
+}
+
+button.madenci:hover{
+    background-color: rgba(233, 210, 151, 0.568);
+    border-color: rgba(184, 135, 11, 0.486);
+}
