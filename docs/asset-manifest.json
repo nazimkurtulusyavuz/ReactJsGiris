@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb587eaa.css",
-    "main.js": "/static/js/main.e1814fea.js",
-    "static/js/787.cfd8f164.chunk.js": "/static/js/787.cfd8f164.chunk.js",
-    "static/media/gold.png": "/static/media/gold.7dbd282fcff1e468a0e6.png",
-    "index.html": "/index.html",
-    "main.eb587eaa.css.map": "/static/css/main.eb587eaa.css.map",
-    "main.e1814fea.js.map": "/static/js/main.e1814fea.js.map",
-    "787.cfd8f164.chunk.js.map": "/static/js/787.cfd8f164.chunk.js.map"
+    "main.css": "/ReactJsGiris/static/css/main.97b3d360.css",
+    "main.js": "/ReactJsGiris/static/js/main.9ebfec73.js",
+    "static/js/787.cfd8f164.chunk.js": "/ReactJsGiris/static/js/787.cfd8f164.chunk.js",
+    "static/media/gold.png": "/ReactJsGiris/static/media/gold.7dbd282fcff1e468a0e6.png",
+    "index.html": "/ReactJsGiris/index.html",
+    "main.97b3d360.css.map": "/ReactJsGiris/static/css/main.97b3d360.css.map",
+    "main.9ebfec73.js.map": "/ReactJsGiris/static/js/main.9ebfec73.js.map",
+    "787.cfd8f164.chunk.js.map": "/ReactJsGiris/static/js/787.cfd8f164.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb587eaa.css",
-    "static/js/main.e1814fea.js"
+    "static/css/main.97b3d360.css",
+    "static/js/main.9ebfec73.js"
   ]
 }
